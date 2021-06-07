@@ -1,0 +1,18 @@
+$bg: darkred;
+.red-background {
+  background-color: $bg;
+}
+
+img {
+  max-width: 200px;
+}
+
+$blue-color: teal;
+
+.hello {
+  background-color: $blue-color;
+
+  .logo {
+    width: 150px;
+  }
+}
