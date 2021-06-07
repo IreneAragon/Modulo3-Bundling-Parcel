@@ -1,16 +1,11 @@
-$bg: darkred;
-.red-background {
-  background-color: $bg;
-}
+$bg-color: teal;
 
-img {
-  max-width: 200px;
+body {
+  font-family: sans-serif;
 }
-
-$blue-color: teal;
 
 .hello {
-  background-color: $blue-color;
+  background-color: $bg-color;
 
   .logo {
     width: 150px;
