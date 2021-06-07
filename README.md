@@ -16,3 +16,4 @@ npm install
 ```
 npm start
 ```
+###### Abre una ventana del navegador y escribe --> localhost:1234
